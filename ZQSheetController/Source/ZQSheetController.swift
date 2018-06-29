@@ -8,7 +8,7 @@
 
 import UIKit
 
-open class ZQSheetController: UIViewController {
+@objcMembers open class ZQSheetController: UIViewController {
 
     //@IBInspectable
     public var backgroundColor: UIColor = UIColor.white
